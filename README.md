@@ -11,7 +11,6 @@ DATA SCIENCE WITH PYTHON
   { Module 3 Deep Data Analysis with Python Libraries }
   { Module 4 Statistics for Data-Science }
   { Module 5 Machine Learning Techniques }
-  { Module 6 Projects }
   
   
   
